@@ -14,3 +14,4 @@
 #Build Dirs#
 output/
 .out/**
+.metadata/
